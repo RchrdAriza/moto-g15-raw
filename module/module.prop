@@ -1,0 +1,6 @@
+id=moto_g15_raw
+name=Moto G15 RAW16 unlock
+version=v4
+versionCode=4
+author=richard
+description=Exposes RAW16 on rear (4080x3072) and front (3264x2448) cameras via a patched libmtkcam_metastore.so bind mount. Stock lib sha256 d4d71c54 required.

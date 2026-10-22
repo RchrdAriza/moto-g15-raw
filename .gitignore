@@ -1,0 +1,6 @@
+# build output
+*.pyc
+__pycache__/
+tools/rawprobe/rawprobe
+*.raw16
+*.dis
